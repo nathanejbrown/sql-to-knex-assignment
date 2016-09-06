@@ -1,0 +1,23 @@
+{
+  "name": "sql-to-knex-assignment",
+  "version": "1.0.0",
+  "description": "For this assignment, you'll combine your knowledge of SQL and Knex. To get started, fork and clone this repository.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathanejbrown/sql-to-knex-assignment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nathanejbrown/sql-to-knex-assignment/issues"
+  },
+  "homepage": "https://github.com/nathanejbrown/sql-to-knex-assignment#readme",
+  "dependencies": {
+    "knex": "^0.11.10",
+    "pg": "^6.1.0"
+  }
+}
